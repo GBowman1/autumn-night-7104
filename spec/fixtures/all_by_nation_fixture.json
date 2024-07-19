@@ -1,0 +1,244 @@
+[
+    {
+        "_id": "5cf5679a915ecad153ab68ef",
+        "allies": [
+            "Azula"
+        ],
+        "enemies": [
+            "Sokka"
+        ],
+        "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/0/02/Bully_guard.png/revision/latest?cb=20120702232626",
+        "name": "Bully guard",
+        "affiliation": "Fire Nation"
+    },
+    {
+        "_id": "5cf5679a915ecad153ab694c",
+        "allies": [
+            "Fire Nation"
+        ],
+        "enemies": [
+            "Aang"
+        ],
+        "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/e/ea/Guard_captain.png/revision/latest?cb=20140116105725",
+        "name": "Guard captain",
+        "affiliation": "Fire Nation"
+    },
+    {
+        "_id": "5cf5679a915ecad153ab69a0",
+        "allies": [
+            "Mayor "
+        ],
+        "enemies": [
+            "Fire Lord Zuko "
+        ],
+        "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/8/85/Kori_Morishita.png/revision/latest?cb=20160330212637",
+        "name": "Kori Morishita",
+        "affiliation": " Fire Nation Fire Nation colonies Yu Dao Yu Dao Resistance (formerly)"
+    },
+    {
+        "_id": "5cf5679a915ecad153ab697a",
+        "allies": [
+            "His mother",
+            ""
+        ],
+        "enemies": [
+            "General"
+        ],
+        "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/0/04/Little_boy.png/revision/latest?cb=20140613143543",
+        "name": "Jang Hui boy",
+        "affiliation": "Fire Nation"
+    },
+    {
+        "_id": "5cf5679a915ecad153ab69e5",
+        "allies": [
+            "Mai"
+        ],
+        "enemies": [],
+        "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/2/24/Mura.png/revision/latest?cb=20130517091301",
+        "name": "Mura",
+        "affiliation": "Fire Nation"
+    },
+    {
+        "_id": "5cf5679a915ecad153ab6a7d",
+        "allies": [
+            "Michi",
+            ""
+        ],
+        "enemies": [
+            "Earth Kingdom"
+        ],
+        "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/e/ee/Ukano.png/revision/latest?cb=20130706145902",
+        "name": "Ukano",
+        "affiliation": " Fire Nation New Ozai (formerly) New Ozai Society Safe Nation Society"
+    },
+    {
+        "_id": "5cf5679a915ecad153ab69c8",
+        "allies": [
+            "Fire Lord"
+        ],
+        "enemies": [
+            "Earth King"
+        ],
+        "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/c/cf/Mak.png/revision/latest?cb=20150615131526",
+        "name": "Mak",
+        "affiliation": " Fire Nation Fire Nation military"
+    },
+    {
+        "_id": "5cf5679a915ecad153ab69e4",
+        "allies": [
+            "Fire Nation"
+        ],
+        "enemies": [
+            "Jang Hui"
+        ],
+        "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/5/57/Mung.png/revision/latest?cb=20140613143543",
+        "name": "Mung",
+        "affiliation": "Fire Nation military"
+    },
+    {
+        "_id": "5cf5679a915ecad153ab69c7",
+        "allies": [
+            "Ukano"
+        ],
+        "enemies": [
+            "Azula",
+            "Ukano",
+            "Team Avatar "
+        ],
+        "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/4/40/Mai.png/revision/latest?cb=20090406114652",
+        "name": "Mai",
+        "affiliation": " Azula's team (formerly) Fire Nation Royal Fire Academy for Girls (formerly)"
+    },
+    {
+        "_id": "5cf5679a915ecad153ab6a3c",
+        "allies": [
+            "Aang"
+        ],
+        "enemies": [
+            "Hide"
+        ],
+        "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/d/d0/School_clothes.png/revision/latest?cb=20140602125811",
+        "name": "Shoji",
+        "affiliation": "Fire Nation school"
+    },
+    {
+        "_id": "5cf5679a915ecad153ab69ee",
+        "allies": [
+            "Rough Rhinos"
+        ],
+        "enemies": [
+            "Team Avatar"
+        ],
+        "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/b/ba/Ogodei.png/revision/latest?cb=20140407160127",
+        "name": "Ogodei",
+        "affiliation": " Fire Nation military (formerly) Rough Rhinos"
+    },
+    {
+        "_id": "5cf5679a915ecad153ab68fd",
+        "allies": [
+            "Ozai"
+        ],
+        "enemies": [
+            "Earth Kingdom"
+        ],
+        "name": "Chan (Fire Nation admiral)",
+        "affiliation": "Fire Nation Navy"
+    },
+    {
+        "_id": "5cf5679a915ecad153ab692a",
+        "allies": [
+            "Aang"
+        ],
+        "enemies": [
+            "Combustion Man"
+        ],
+        "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/c/cb/Fire_Nation_train_conductor.png/revision/latest?cb=20130308171223",
+        "name": "Fire Nation train conductor",
+        "affiliation": " Fire Nation Fire Nation train"
+    },
+    {
+        "_id": "5cf5679a915ecad153ab6985",
+        "allies": [
+            "Ursa"
+        ],
+        "enemies": [
+            "Ozai"
+        ],
+        "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/5/5e/Jinzuk_and_Rina.png/revision/latest?cb=20130519222826",
+        "name": "Jinzuk and Rina",
+        "affiliation": "Fire Nation"
+    },
+    {
+        "_id": "5cf5679a915ecad153ab6a0b",
+        "allies": [
+            "Fat"
+        ],
+        "enemies": [
+            "Fire Nation",
+            ""
+        ],
+        "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/e/e1/Piandao.png/revision/latest?cb=20140905225031",
+        "name": "Piandao",
+        "affiliation": " Fire Nation Army (deserted) Order of the White Lotus"
+    },
+    {
+        "_id": "5cf5679a915ecad153ab6a12",
+        "allies": [
+            "Fire Nation"
+        ],
+        "enemies": [
+            "Iroh"
+        ],
+        "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/e/e5/Warden_Poon.png/revision/latest?cb=20130123150230",
+        "name": "Poon",
+        "affiliation": " Capital City Prison Fire Nation military"
+    },
+    {
+        "_id": "5cf5679a915ecad153ab6923",
+        "allies": [
+            "Qin Lee"
+        ],
+        "enemies": [
+            "Sokka"
+        ],
+        "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/1/10/Airship_captain.png/revision/latest?cb=20130121145050",
+        "name": "Fire Nation airship captain",
+        "affiliation": "Fire Nation"
+    },
+    {
+        "_id": "5cf5679a915ecad153ab6962",
+        "allies": [
+            "Headmaster"
+        ],
+        "enemies": [
+            "Aang"
+        ],
+        "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/9/96/Hide.png/revision/latest?cb=20140602093934",
+        "name": "Hide",
+        "affiliation": "Fire Nation school"
+    },
+    {
+        "_id": "5cf5679a915ecad153ab69a7",
+        "allies": [
+            "Aang"
+        ],
+        "enemies": [
+            "Dragon egg"
+        ],
+        "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/7/71/Kuzon.png/revision/latest?cb=20130101100859",
+        "name": "Kuzon",
+        "affiliation": "Fire Nation"
+    },
+    {
+        "_id": "5cf5679a915ecad153ab695e",
+        "allies": [
+            "Hide"
+        ],
+        "enemies": [
+            "Aang"
+        ],
+        "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/6/68/Headmaster.png/revision/latest?cb=20140602125536",
+        "name": "Headmaster",
+        "affiliation": "Fire Nation school"
+    }
+]

@@ -1,0 +1,30 @@
+<div id="nation_details">
+    <h1> <%= @nation %> </h1>
+    <p> Population: <%= @characters.count %> </p>
+</div>
+<div id="characters">
+    <% @characters.each do |character| %>
+        <div class="character">
+            <h2> Name: <%= character.name %> </h2>
+            <p> <%= character.picture %> </p>
+            <p> Affiliations: <%= character.affiliations %> </p>
+            <ul id="allies">
+                <% if character.allies.empty? %>
+                    <li> None </li>
+                <% else %>
+                    <% character.allies.each do |ally| %>
+                        <li> <%= ally %> </li> 
+                    <% end %>
+                <% end %>
+            </ul>
+            <ul id="enemies">
+                <% if character.enemies.empty? %>
+                    <li> None </li>
+                <% else %>
+                    <% character.enemies.each do |enemy| %>
+                        <li> <%= enemy %> </li>
+                    <% end %>
+                <% end %>
+        </div>
+    <% end %>
+</div>
