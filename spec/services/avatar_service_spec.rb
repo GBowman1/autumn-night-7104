@@ -30,6 +30,7 @@ RSpec.describe "Avatar Service" do
     response = AvatarService.get_characters('fire+nation')
 
     expect(response).to be_an(Array)
+    expect(response.first).to be_a(Hash)
     expect(response.first).to have_key(:_id)
     expect(response.first).to have_key(:allies)
     expect(response.first).to have_key(:enemies)
@@ -48,6 +49,7 @@ RSpec.describe "Avatar Service" do
     response = AvatarService.get_first_25_characters('fire+nation')
 
     expect(response).to be_an(Array)
+    expect(response.first).to be_a(Hash)
     expect(response.first).to have_key(:_id)
     expect(response.first).to have_key(:allies)
     expect(response.first).to have_key(:enemies)
