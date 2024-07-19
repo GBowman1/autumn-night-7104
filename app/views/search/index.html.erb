@@ -4,11 +4,12 @@
 </div>
 <div id="characters">
     <% @first_25_characters.each_with_index do |character, index| %>
-        <div id="character_<%index + 1%>">
+        <div id="character_<%= index + 1 %>">
             <h2> Name: <%= character.name %> </h2>
-            <p> <%= character.picture %> </p>
+            <img src="<%= character.picture %>" alt="<%= character.name %>">
             <p> Affiliations: <%= character.affiliations %> </p>
-            <ul id="allies">
+            <p> Allies: </p>
+            <ul id="allies"> 
                 <% if character.allies.empty? %>
                     <li> None </li>
                 <% else %>
@@ -17,6 +18,7 @@
                     <% end %>
                 <% end %>
             </ul>
+            <p> Enemies: </p>
             <ul id="enemies">
                 <% if character.enemies.empty? %>
                     <li> None </li>

@@ -4,7 +4,7 @@ RSpec.describe "Welcome Index Page", type: :feature do
   before :each do
     @fire_nation = File.read('spec/fixtures/all_by_nation_fixture.json')
 
-    stub_request(:get, "https://last-airbender-api.fly.dev/api/v1/characters?affiliation=fire%20nation").
+    stub_request(:get, "https://last-airbender-api.fly.dev/api/v1/characters?affiliation=fire%20nation&page=1&perPage=500").
           with(
             headers: {
             'Accept'=>'*/*',

@@ -6,7 +6,7 @@ class AvatarService
   end
 
   def self.get_characters(nation)
-    response = conn.get("/api/v1/characters?affiliation=#{nation}")
+    response = conn.get("/api/v1/characters?affiliation=#{nation}&perPage=500&page=1")
 
     JSON.parse(response.body, symbolize_names: true)
   end
