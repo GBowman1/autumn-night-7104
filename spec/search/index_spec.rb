@@ -58,4 +58,5 @@ RSpec.describe "Search Index Page", type: :feature do
       expect(page).to_not have_css("#character_26")
     end
   end
+  # need to remove allies and enemies from a character and test sad path empty array
 end
