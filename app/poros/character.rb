@@ -7,4 +7,5 @@ class Character
     @affiliations = data[:affiliation]
     @picture = data[:photoUrl]
   end
+
 end

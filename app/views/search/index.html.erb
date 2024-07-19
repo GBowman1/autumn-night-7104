@@ -1,10 +1,10 @@
 <div id="nation_details">
-    <h1> <%= @nation %> </h1>
+    <h1> Nation: <%= @nation.gsub("+", " ").titleize %> </h1>
     <p> Population: <%= @characters.count %> </p>
 </div>
 <div id="characters">
-    <% @characters.each do |character| %>
-        <div class="character">
+    <% @first_25_characters.each_with_index do |character, index| %>
+        <div id="character_<%index + 1%>">
             <h2> Name: <%= character.name %> </h2>
             <p> <%= character.picture %> </p>
             <p> Affiliations: <%= character.affiliations %> </p>
